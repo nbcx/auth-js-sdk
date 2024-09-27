@@ -1,5 +1,5 @@
 {
-  "name": "casdoor-js-sdk",
+  "name": "auth-js-sdk",
   "version": "0.0.1",
   "description": "Javascript client SDK for Casdoor",
   "main": "lib/cjs/index.js",
